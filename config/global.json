@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Fifty": {
+            "applicationId": "XAHtsYkJB8lmObbWotMoJKIFCmlqkSN9xaNgbEXu", 
+            "masterKey": "aROoeve4bL6wlORGZBDhFDps4w230hlIh46GdYTc"
+        }, 
+        "_default": {
+            "link": "Fifty"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.18"
+    }
+}
